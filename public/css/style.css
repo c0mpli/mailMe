@@ -1,0 +1,58 @@
+.bootstrap-tagsinput{
+    width: 100%;
+}
+.label-info{
+    background-color: #2f9ef9;
+
+}
+h4,h1{
+    color: #ECF5FC !important;
+}
+.card-block{
+    color: black;
+}
+.buttonCenter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.buttonHover{
+    background-color: #2f9ef9;
+    border: none;
+}
+.buttonHover:hover{
+    background-color: #2f9ef9;
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+.label {
+    display: inline-block;
+    padding: .25em .4em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,
+    border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+body, .jumbotron{
+    color: #ECF5FC;
+    background-color: #000010;
+}
+
+.dropzone {
+    border: 1px dashed #e9ecef; }
+.dropzone .dz-message {
+    padding: 5% 0;
+    margin: 0px;
+    color: #000010; 
+}
+
+    .centerAligned{
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
